@@ -1,4 +1,4 @@
-# find_user_location-WLAN_fingerprint
+# WiFi based localization algorithm
 
 Use Case:
 Determining the position of the user (latitude, longitude, floor, building) using the database based on WLAN fingerprint (also know as WiFi Fingerprinting).
